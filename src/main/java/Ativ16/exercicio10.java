@@ -34,6 +34,5 @@ public class exercicio10 {
 
         // Exibe a porcentagem de aprovadas
         System.out.printf("Total aprovado: %.2f%%\n", porcentagemAprovadas);
-
     }
 }
